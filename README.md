@@ -9,7 +9,7 @@
  - 王玉祥/男/1993 
  - 大专/三门峡职业技术学院计算机系 
  - 工作年限：3年
- - 技术博客：https://github.com/wyx318
+ - [技术博客]：(https://github.com/wyx318)
  - Github：https://github.com/wyx318
 
  - 期望职位：web前端开发
